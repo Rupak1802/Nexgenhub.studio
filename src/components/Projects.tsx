@@ -17,7 +17,7 @@ const projects = [
      title: 'Dental Website',
     description:
       'Fastest way of approaching the dentist and dental products.',
-    link: 'https://dentico-clinic.onrender.com',
+    link: 'https://dentico-nu.vercel.app',
     image: '/dentico.png',
 
   },
